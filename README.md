@@ -1,2 +1,2 @@
-# Colormoves xml Converter
-A small script to convert colour gradients from the Colormoves project (https://sciviscolor.org/ColorMoves/) exported as xml file to an XML file that is compatible with Quantum GIS (QGIS)
+# ColorMoves XML Converter
+A small command-line script that converts a colour gradient from the Colormoves project (https://sciviscolor.org/ColorMoves/) exported in XML format to an XML file that is compatible with Quantum GIS (QGIS)
